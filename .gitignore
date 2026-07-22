@@ -1,0 +1,17 @@
+# Build files
+build/
+
+# Generated files
+*.exe
+*.obj
+*.bin
+functions.json
+embeddings.bin
+query.bin
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models
+models/
